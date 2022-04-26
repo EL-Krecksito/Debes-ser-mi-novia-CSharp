@@ -1,0 +1,17 @@
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres_ser_mi_novia.Window.resources
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.exe
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.deps.json
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.runtimeconfig.json
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.dll
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.pdb
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.dll
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\refint\Quieres ser mi novia.dll
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.pdb
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\net6.0-windows\ref\Quieres ser mi novia.dll

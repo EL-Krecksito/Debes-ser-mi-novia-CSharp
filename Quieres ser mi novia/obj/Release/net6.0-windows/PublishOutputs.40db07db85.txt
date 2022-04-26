@@ -1,0 +1,5 @@
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Release\net6.0-windows\publish\Quieres ser mi novia.exe
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Release\net6.0-windows\publish\Quieres ser mi novia.dll
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Release\net6.0-windows\publish\Quieres ser mi novia.deps.json
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Release\net6.0-windows\publish\Quieres ser mi novia.runtimeconfig.json
+C:\Users\jesus\OneDrive\Documentos\Quieres ser mi novia\Quieres ser mi novia\bin\Release\net6.0-windows\publish\Quieres ser mi novia.pdb
